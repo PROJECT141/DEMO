@@ -1,2 +1,3 @@
-Demo for GIT Commands
-Git add
+GIT Add.
+Git Commit-am "Gira Gira Tirugutundi Fan"
+
