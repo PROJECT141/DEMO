@@ -1,3 +1,4 @@
-# UUID         	Group Name
+# UUID                	Group Name
 #
-user:PROJECT141	user/PROJECT141
+global:Anonymous-Users	Anonymous Users
+user:PROJECT141       	user/PROJECT141
